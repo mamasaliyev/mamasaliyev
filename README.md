@@ -80,5 +80,6 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img src="https://i.imgur.com/XYZabcD.gif" alt="Bugatti Driving" width="600">
+  <img src="https://media.giphy.com/media/Lp6Qx6eSxEOVq/giphy.gif" alt="Bugatti Driving" width="600">
 </p>
+
