@@ -81,9 +81,8 @@ Here are some ideas to get you started:
 
 ---
 
-
 <p align="center">
-  <img src="https://media.giphy.com/media/fwy3kZK1BE5uIVwDZD/giphy.gif" alt="Bugatti Driving" width="600">
+  <img src="https://i.imgur.com/BUGATTI.gif" alt="Bugatti Driving" width="600">
 </p>
 
 
