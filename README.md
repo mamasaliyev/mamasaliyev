@@ -74,3 +74,12 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://profile-counter.glitch.me/_blocage/count.svg" alt="Profile Counter">
 </p>
+
+
+---
+
+## 🏎️ My Bugatti on GitHub
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="Bugatti Car" width="600">
+</p>
