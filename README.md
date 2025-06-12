@@ -18,7 +18,7 @@ I’m Bexruz, a backend developer working with Python. I enjoy learning new tech
   <a href="mailto:behruzmamasaliyev2@gmail.com" style="margin: 0 15px;">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="(https://t.me/Bekhruz_777" style="margin: 0 15px;">
+<a href="https://t.me/Bekhruz_777" style="margin: 0 15px;">Telegram</a>
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
   <a href="https://instagram.com/__beh1uz__" style="margin: 0 15px;">
