@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 - ⚡️ Fun fact: ...
 -->
 <p align="center">
-<img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" alt="Matrix Code" width="600" height="100">
+<img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" alt="Matrix Code" width="300" height="100">
 </p>
 
 
