@@ -80,6 +80,6 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-<img src="https://media.giphy.com/media/TLtOaKYanbWxCbx6iU/giphy.gif" alt="Bugatti GIF" width="600">
+<img src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif" alt="GIF Image" width="600">
 </p>
 
