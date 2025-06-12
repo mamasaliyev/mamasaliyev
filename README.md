@@ -79,11 +79,6 @@ Here are some ideas to get you started:
 
 
 
----
-
 <p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="Bugatti Driving" width="600">
+  <img src="https://i.imgur.com/sideways_bugatti.gif" alt="Bugatti Drift" width="600">
 </p>
-
-
-
