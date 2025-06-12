@@ -80,6 +80,6 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Lp6Qx6eSxEOVq/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3UwNWplMXVycDNlbWs1OGlxajM0MnVrZTQ3a24zb3J3cnN4MmdqNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fvjBHSTYMcE1fKcrP9/giphy.gif" alt="Bugatti Driving" width="600">
+<img src="https://media.giphy.com/media/TLtOaKYanbWxCbx6iU/giphy.gif" alt="Bugatti GIF" width="600">
 </p>
 
