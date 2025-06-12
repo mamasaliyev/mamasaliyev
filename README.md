@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 - ⚡️ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://media.giphy.com/media/7FrOU9tPbgAZtxV5mb/giphy.gif" alt="Bugatti GIF" width="600">
+  <img src="https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif" alt="Funny GIF" width="600">
 </p>
 
 
